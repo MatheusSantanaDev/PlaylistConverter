@@ -1,0 +1,30 @@
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.deps.json
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.runtimeconfig.json
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/bin/Debug/net6.0/ref/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.pdb
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.csproj.AssemblyReference.cache
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.AssemblyInfoInputs.cache
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.AssemblyInfo.cs
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.csproj.CoreCompileInputs.cache
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/ref/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.pdb
+/mnt/c/Users/atail/Desktop/Playlist Converter/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.genruntimeconfig.cache
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.deps.json
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.runtimeconfig.json
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/bin/Debug/net6.0/ref/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/bin/Debug/net6.0/PlaylistConverter.pdb
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.csproj.AssemblyReference.cache
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.AssemblyInfoInputs.cache
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.AssemblyInfo.cs
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.csproj.CoreCompileInputs.cache
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/ref/PlaylistConverter.dll
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.pdb
+/mnt/c/Users/atail/Desktop/PlaylistConverter/src/obj/Debug/net6.0/PlaylistConverter.genruntimeconfig.cache

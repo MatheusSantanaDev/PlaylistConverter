@@ -1,0 +1,91 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="GVP.QA.MIB3.Execution" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="GVP.QA.MIB3.Commercial.Partners" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="LegacyUniqueIDsTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="GVP.QA.MIB3.Commercial.Partners.LegacyUniqueIDsTests.OpenList" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="OpenList(Administrators)" />
+                        <Property Name="DisplayName" Value="OpenList(OBAdministrator)" />
+                        <Property Name="DisplayName" Value="OpenList(AdministratorsReadOnly)" />
+                        <Property Name="DisplayName" Value="OpenList(OBAdministratorReadOnly)" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+            <Rule Match="All">
+              <Property Name="Namespace" Value="GVP.QA.MIB3.Execution.Commercial" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="PricingModelTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="GVP.QA.MIB3.Execution.Commercial.PricingModelTests.BulkEditMainBlock" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="BulkEditMainBlock(Administrators)" />
+                        <Property Name="DisplayName" Value="BulkEditMainBlock(OBAdministrator)" />
+                        <Property Name="DisplayName" Value="BulkEditMainBlock(Commercial)" />
+                        <Property Name="DisplayName" Value="BulkEditMainBlock(FOGlobal)" />
+                        <Property Name="DisplayName" Value="BulkEditMainBlock(FOLurin)" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SubscriptionsTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="GVP.QA.MIB3.Execution.Commercial.SubscriptionsTests.CheckDeviceTypeAvailabilityChangeRegistersWhenChangingSubscriptionInstance" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CheckDeviceTypeAvailabilityChangeRegistersWhenChangingSubscriptionInstance(Administrators)" />
+                        <Property Name="DisplayName" Value="CheckDeviceTypeAvailabilityChangeRegistersWhenChangingSubscriptionInstance(OBAdministrator)" />
+                        <Property Name="DisplayName" Value="CheckDeviceTypeAvailabilityChangeRegistersWhenChangingSubscriptionInstance(Commercial)" />
+                        <Property Name="DisplayName" Value="CheckDeviceTypeAvailabilityChangeRegistersWhenChangingSubscriptionInstance(FOGlobal)" />
+                        <Property Name="DisplayName" Value="CheckDeviceTypeAvailabilityChangeRegistersWhenChangingSubscriptionInstance(FOLurin)" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="GVP.QA.MIB3.Execution.Commercial.SubscriptionsTests.CheckJobsWorkflowBlockOnCreate" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CheckJobsWorkflowBlockOnCreate(Administrators)" />
+                        <Property Name="DisplayName" Value="CheckJobsWorkflowBlockOnCreate(OBAdministrator)" />
+                        <Property Name="DisplayName" Value="CheckJobsWorkflowBlockOnCreate(Commercial)" />
+                        <Property Name="DisplayName" Value="CheckJobsWorkflowBlockOnCreate(FOGlobal)" />
+                        <Property Name="DisplayName" Value="CheckJobsWorkflowBlockOnCreate(FOLurin)" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="GVP.QA.MIB3.Execution.Commercial.SubscriptionsTests.CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Administrators,&quot;License Availability Date Start&quot;)" />
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Administrators,&quot;License Availability Date Start descending&quot;)" />
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Administrators,&quot;License Availability Date End&quot;)" />
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Administrators,&quot;License Availability Date End descending&quot;)" />
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Commercial,&quot;License Availability Date Start&quot;)" />
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Commercial,&quot;License Availability Date Start descending&quot;)" />
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Commercial,&quot;License Availability Date End&quot;)" />
+                        <Property Name="DisplayName" Value="CheckPreviewTabNotShownWhenUsingLicenseAvaiabilityOrderers(Commercial,&quot;License Availability Date End descending&quot;)" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>
